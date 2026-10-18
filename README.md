@@ -1,18 +1,25 @@
- 
-# Hi there, I'm enauj 👋
+# Hi, I'm Elias
 
-## About Me
-I'm a student at Heidelberg University currently working at [HeiGIT](heigit.org). My primary interests lie in GIS, cartography. 
+I'm a Geography MSc student at Heidelberg University and a research assistant at [HeiGIT](https://heigit.org/).
 
-## Interests
-- **Geographic Information Systems (GIS)**
-- **Cartography**
+I work mainly with GIS, geospatial data analysis, and humanitarian information management.
 
-## Projects and Contributions
-Here are a few projects I’ve been working on:
+### What I'm working on
 
-- [GIS-Training-Resource_center](https://github.com/GIScience/gis-training-resource-center)
+Currently, much of my work focuses on developing and maintaining the [GIS Training Resource Center](https://github.com/GIScience/gis-training-resource-center), an open-source learning platform for GIS in humanitarian contexts.
 
-## Languages and Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-3.10-F89F2C?style=for-the-badge&logo=qgis&logoColor=white)
+I also work on geospatial analyses and information management products to support humanitarian planning and decision-making.
+
+### Projects
+
+- **[GIS Training Resource Center](https://github.com/GIScience/gis-training-resource-center)** – GIS training materials, practical exercises, and multilingual documentation.
+- **Humanitarian risk assessments** – Hazard, exposure, and vulnerability analyses.
+- **Accessibility and routing analyses** – Travel-time modelling, service areas, and spatial analysis for humanitarian planning.
+
+### Tools
+
+`QGIS` · `Python` · `R` · `GeoPandas` · `Google Earth Engine` · `OpenStreetMap` · `SQL` · `Git` · `Jupyter Book`
+
+### Links
+
+[HeiGIT](https://heigit.org/) · [GitHub](https://github.com/enauj)
